@@ -1,0 +1,17 @@
+{
+  "name": "reactdfoundation",
+  "version": "1.0.0",
+  "description": "laying the foundation",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "subham gope",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
