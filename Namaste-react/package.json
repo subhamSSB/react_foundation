@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "laying the foundation",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "parcel index.html"
   },
   "author": "subham gope",
   "license": "ISC",
